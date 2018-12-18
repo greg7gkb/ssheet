@@ -1,0 +1,16 @@
+body {
+	background-color: powderblue;
+}
+h1 {
+	color: blue;
+}
+table {
+	border-collapse: collapse;
+}
+td {
+	padding: 0;
+}
+p {
+	color: blue;
+	margin: 0;
+}
